@@ -53,7 +53,7 @@ public class UserTests {
 		
 	}
 	
-	//PUT Method
+	//PUT Method for updating the user
 	@Test(priority=2)
 	public void updateUser() {
 		
